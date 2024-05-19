@@ -1,0 +1,42 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Carlos García Suárez",
+    "description": "",
+    "home_page_url": "https://publiipersonal-osw2n.kinsta.page",
+    "feed_url": "https://publiipersonal-osw2n.kinsta.page/feed.json",
+    "user_comment": "",
+    "icon": "https://publiipersonal-osw2n.kinsta.page/media/website/logo.png",
+    "author": {
+        "name": "Carlos García Suárez"
+    },
+    "items": [
+        {
+            "id": "https://publiipersonal-osw2n.kinsta.page/echo.html",
+            "url": "https://publiipersonal-osw2n.kinsta.page/echo.html",
+            "title": "Echo",
+            "summary": "asasda",
+            "content_html": "<p>asasda</p>\n<div class=\"gallery-wrapper\"><div class=\"gallery\"  data-is-empty=\"false\" data-translation=\"Add images\" data-columns=\"3\">\n<figure class=\"gallery__item\"><a href=\"https://publiipersonal-osw2n.kinsta.page/media/posts/2/gallery/48715.jpg\" data-size=\"3024x2005\"><img loading=\"lazy\" src=\"https://publiipersonal-osw2n.kinsta.page/media/posts/2/gallery/48715-thumbnail.jpg\" alt=\"\" width=\"720\" height=\"477\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://publiipersonal-osw2n.kinsta.page/media/posts/2/gallery/1228123.jpg\" data-size=\"2693x4061\"><img loading=\"lazy\" src=\"https://publiipersonal-osw2n.kinsta.page/media/posts/2/gallery/1228123-thumbnail.jpg\" alt=\"\" width=\"720\" height=\"1086\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://publiipersonal-osw2n.kinsta.page/media/posts/2/gallery/Carlos-Garcia-14.jpg\" data-size=\"4500x3000\"><img loading=\"lazy\" src=\"https://publiipersonal-osw2n.kinsta.page/media/posts/2/gallery/Carlos-Garcia-14-thumbnail.jpg\" alt=\"\" width=\"720\" height=\"480\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://publiipersonal-osw2n.kinsta.page/media/posts/2/gallery/Carlos-Garcia-17.jpg\" data-size=\"4500x3000\"><img loading=\"lazy\" src=\"https://publiipersonal-osw2n.kinsta.page/media/posts/2/gallery/Carlos-Garcia-17-thumbnail.jpg\" alt=\"\" width=\"720\" height=\"480\"></a></figure>\n</div></div>",
+            "author": {
+                "name": "Carlos García Suárez"
+            },
+            "tags": [
+            ],
+            "date_published": "2024-04-29T12:49:02+02:00",
+            "date_modified": "2024-05-17T10:02:08+02:00"
+        },
+        {
+            "id": "https://publiipersonal-osw2n.kinsta.page/primer-post.html",
+            "url": "https://publiipersonal-osw2n.kinsta.page/primer-post.html",
+            "title": "Primer post",
+            "content_html": "<div class=\"gallery-wrapper\"><div class=\"gallery\"  data-is-empty=\"false\" data-translation=\"Add images\" data-columns=\"3\">\n<figure class=\"gallery__item\"><a href=\"https://publiipersonal-osw2n.kinsta.page/media/posts/1/gallery/1228123.jpg\" data-size=\"2693x4061\"><img loading=\"lazy\" src=\"https://publiipersonal-osw2n.kinsta.page/media/posts/1/gallery/1228123-thumbnail.jpg\" alt=\"\" width=\"720\" height=\"1086\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://publiipersonal-osw2n.kinsta.page/media/posts/1/gallery/Carlos-Garcia-14.jpg\" data-size=\"4500x3000\"><img loading=\"lazy\" src=\"https://publiipersonal-osw2n.kinsta.page/media/posts/1/gallery/Carlos-Garcia-14-thumbnail.jpg\" alt=\"\" width=\"720\" height=\"480\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://publiipersonal-osw2n.kinsta.page/media/posts/1/gallery/Carlos-Garcia-17.jpg\" data-size=\"4500x3000\"><img loading=\"lazy\" src=\"https://publiipersonal-osw2n.kinsta.page/media/posts/1/gallery/Carlos-Garcia-17-thumbnail.jpg\" alt=\"\" width=\"720\" height=\"480\"></a></figure>\n</div></div>",
+            "author": {
+                "name": "Carlos García Suárez"
+            },
+            "tags": [
+                   "Mezcla"
+            ],
+            "date_published": "2024-04-25T13:43:04+02:00",
+            "date_modified": "2024-05-17T10:02:13+02:00"
+        }
+    ]
+}

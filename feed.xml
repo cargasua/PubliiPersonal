@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
+    <title>Carlos García Suárez</title>
+    <link href="https://publiipersonal-osw2n.kinsta.page/feed.xml" rel="self" />
+    <link href="https://publiipersonal-osw2n.kinsta.page" />
+    <updated>2024-05-17T10:02:13+02:00</updated>
+    <author>
+        <name>Carlos García Suárez</name>
+    </author>
+    <id>https://publiipersonal-osw2n.kinsta.page</id>
+
+    <entry>
+        <title>Echo</title>
+        <author>
+            <name>Carlos García Suárez</name>
+        </author>
+        <link href="https://publiipersonal-osw2n.kinsta.page/echo.html"/>
+        <id>https://publiipersonal-osw2n.kinsta.page/echo.html</id>
+
+        <updated>2024-04-29T12:49:02+02:00</updated>
+            <summary>
+                <![CDATA[
+                    asasda
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>asasda</p>
+<div class="gallery-wrapper"><div class="gallery"  data-is-empty="false" data-translation="Add images" data-columns="3">
+<figure class="gallery__item"><a href="https://publiipersonal-osw2n.kinsta.page/media/posts/2/gallery/48715.jpg" data-size="3024x2005"><img loading="lazy" src="https://publiipersonal-osw2n.kinsta.page/media/posts/2/gallery/48715-thumbnail.jpg" alt="" width="720" height="477"></a></figure>
+<figure class="gallery__item"><a href="https://publiipersonal-osw2n.kinsta.page/media/posts/2/gallery/1228123.jpg" data-size="2693x4061"><img loading="lazy" src="https://publiipersonal-osw2n.kinsta.page/media/posts/2/gallery/1228123-thumbnail.jpg" alt="" width="720" height="1086"></a></figure>
+<figure class="gallery__item"><a href="https://publiipersonal-osw2n.kinsta.page/media/posts/2/gallery/Carlos-Garcia-14.jpg" data-size="4500x3000"><img loading="lazy" src="https://publiipersonal-osw2n.kinsta.page/media/posts/2/gallery/Carlos-Garcia-14-thumbnail.jpg" alt="" width="720" height="480"></a></figure>
+<figure class="gallery__item"><a href="https://publiipersonal-osw2n.kinsta.page/media/posts/2/gallery/Carlos-Garcia-17.jpg" data-size="4500x3000"><img loading="lazy" src="https://publiipersonal-osw2n.kinsta.page/media/posts/2/gallery/Carlos-Garcia-17-thumbnail.jpg" alt="" width="720" height="480"></a></figure>
+</div></div>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Primer post</title>
+        <author>
+            <name>Carlos García Suárez</name>
+        </author>
+        <link href="https://publiipersonal-osw2n.kinsta.page/primer-post.html"/>
+        <id>https://publiipersonal-osw2n.kinsta.page/primer-post.html</id>
+            <category term="Mezcla"/>
+
+        <updated>2024-04-25T13:43:04+02:00</updated>
+            <summary></summary>
+        <content type="html">
+            <![CDATA[
+                <div class="gallery-wrapper"><div class="gallery"  data-is-empty="false" data-translation="Add images" data-columns="3">
+<figure class="gallery__item"><a href="https://publiipersonal-osw2n.kinsta.page/media/posts/1/gallery/1228123.jpg" data-size="2693x4061"><img loading="lazy" src="https://publiipersonal-osw2n.kinsta.page/media/posts/1/gallery/1228123-thumbnail.jpg" alt="" width="720" height="1086"></a></figure>
+<figure class="gallery__item"><a href="https://publiipersonal-osw2n.kinsta.page/media/posts/1/gallery/Carlos-Garcia-14.jpg" data-size="4500x3000"><img loading="lazy" src="https://publiipersonal-osw2n.kinsta.page/media/posts/1/gallery/Carlos-Garcia-14-thumbnail.jpg" alt="" width="720" height="480"></a></figure>
+<figure class="gallery__item"><a href="https://publiipersonal-osw2n.kinsta.page/media/posts/1/gallery/Carlos-Garcia-17.jpg" data-size="4500x3000"><img loading="lazy" src="https://publiipersonal-osw2n.kinsta.page/media/posts/1/gallery/Carlos-Garcia-17-thumbnail.jpg" alt="" width="720" height="480"></a></figure>
+</div></div>
+            ]]>
+        </content>
+    </entry>
+</feed>
