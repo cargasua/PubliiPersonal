@@ -1,3 +1,3 @@
 User-agent: *
 Disallow:
-Sitemap: https://publiipersonal-osw2n.kinsta.page/sitemap.xml
+Sitemap: https://carlosgarsua.com.es/sitemap.xml

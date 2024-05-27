@@ -1,22 +1,23 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
     <title>Carlos García Suárez</title>
-    <link href="https://publiipersonal-osw2n.kinsta.page/feed.xml" rel="self" />
-    <link href="https://publiipersonal-osw2n.kinsta.page" />
-    <updated>2024-05-27T13:04:57+02:00</updated>
+    <link href="https://carlosgarsua.com.es/feed.xml" rel="self" />
+    <link href="https://carlosgarsua.com.es" />
+    <updated>2024-05-27T16:06:38+02:00</updated>
     <author>
         <name>Carlos García Suárez</name>
     </author>
-    <id>https://publiipersonal-osw2n.kinsta.page</id>
+    <id>https://carlosgarsua.com.es</id>
 
     <entry>
-        <title>Listado de fotógrafas y fotógrafos de calle</title>
+        <title>Personal list of street photographers</title>
         <author>
             <name>Carlos García Suárez</name>
         </author>
-        <link href="https://publiipersonal-osw2n.kinsta.page/listado-de-fotografas-y-fotografos-de-calle.html"/>
-        <id>https://publiipersonal-osw2n.kinsta.page/listado-de-fotografas-y-fotografos-de-calle.html</id>
+        <link href="https://carlosgarsua.com.es/listado-de-fotografas-y-fotografos-de-calle.html"/>
+        <id>https://carlosgarsua.com.es/listado-de-fotografas-y-fotografos-de-calle.html</id>
             <category term="Street"/>
+            <category term="Photographers"/>
             <category term="Fotógrafos"/>
             <category term="Fotógrafas"/>
             <category term="Calle"/>
@@ -25,12 +26,12 @@
         <updated>2024-05-27T13:01:49+02:00</updated>
             <summary>
                 <![CDATA[
-                    Comparto una lista de fotógraf@s de calle que en algún momento me han interesado. Se trata de una lista dinámica que espero ir actualizando con&hellip;
+                    I share a list of street photographers that at one time or another have interested me. This is a dynamic list that I hope to&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                <p>Comparto una lista de fotógraf@s de calle que en algún momento me han interesado. Se trata de una lista dinámica que espero ir actualizando con el tiempo.</p><ul>
+                <p>I share a list of street photographers that at one time or another have interested me. This is a dynamic list that I hope to update over time. I regret that most of the websites referenced are in Spanish.</p><ul>
 <li><strong>Alex Webb</strong><ul>
 <li><a href="https://www.xatakafoto.com/fotografos/alex-webb-el-fotografo-obsesionado-con-la-realidad">https://www.xatakafoto.com/fotografos/alex-webb-el-fotografo-obsesionado-con-la-realidad</a></li>
 <li><a href="https://www.youtube.com/playlist?list=PL9AGyOuLR7OYXk4Bj3HWIbojTHboccoOc">Vídeo sobre su forma de trabajar</a></li>
@@ -314,8 +315,8 @@
         <author>
             <name>Carlos García Suárez</name>
         </author>
-        <link href="https://publiipersonal-osw2n.kinsta.page/echo.html"/>
-        <id>https://publiipersonal-osw2n.kinsta.page/echo.html</id>
+        <link href="https://carlosgarsua.com.es/echo.html"/>
+        <id>https://carlosgarsua.com.es/echo.html</id>
 
         <updated>2024-04-29T12:49:02+02:00</updated>
             <summary>
@@ -327,10 +328,10 @@
             <![CDATA[
                 <p>asasda</p>
 <div class="gallery-wrapper"><div class="gallery"  data-is-empty="false" data-translation="Add images" data-columns="3">
-<figure class="gallery__item"><a href="https://publiipersonal-osw2n.kinsta.page/media/posts/2/gallery/48715.jpg" data-size="3024x2005"><img loading="lazy" src="https://publiipersonal-osw2n.kinsta.page/media/posts/2/gallery/48715-thumbnail.jpg" alt="" width="720" height="477"></a></figure>
-<figure class="gallery__item"><a href="https://publiipersonal-osw2n.kinsta.page/media/posts/2/gallery/1228123.jpg" data-size="2693x4061"><img loading="lazy" src="https://publiipersonal-osw2n.kinsta.page/media/posts/2/gallery/1228123-thumbnail.jpg" alt="" width="720" height="1086"></a></figure>
-<figure class="gallery__item"><a href="https://publiipersonal-osw2n.kinsta.page/media/posts/2/gallery/Carlos-Garcia-14.jpg" data-size="4500x3000"><img loading="lazy" src="https://publiipersonal-osw2n.kinsta.page/media/posts/2/gallery/Carlos-Garcia-14-thumbnail.jpg" alt="" width="720" height="480"></a></figure>
-<figure class="gallery__item"><a href="https://publiipersonal-osw2n.kinsta.page/media/posts/2/gallery/Carlos-Garcia-17.jpg" data-size="4500x3000"><img loading="lazy" src="https://publiipersonal-osw2n.kinsta.page/media/posts/2/gallery/Carlos-Garcia-17-thumbnail.jpg" alt="" width="720" height="480"></a></figure>
+<figure class="gallery__item"><a href="https://carlosgarsua.com.es/media/posts/2/gallery/48715.jpg" data-size="3024x2005"><img loading="lazy" src="https://carlosgarsua.com.es/media/posts/2/gallery/48715-thumbnail.jpg" alt="" width="720" height="477"></a></figure>
+<figure class="gallery__item"><a href="https://carlosgarsua.com.es/media/posts/2/gallery/1228123.jpg" data-size="2693x4061"><img loading="lazy" src="https://carlosgarsua.com.es/media/posts/2/gallery/1228123-thumbnail.jpg" alt="" width="720" height="1086"></a></figure>
+<figure class="gallery__item"><a href="https://carlosgarsua.com.es/media/posts/2/gallery/Carlos-Garcia-14.jpg" data-size="4500x3000"><img loading="lazy" src="https://carlosgarsua.com.es/media/posts/2/gallery/Carlos-Garcia-14-thumbnail.jpg" alt="" width="720" height="480"></a></figure>
+<figure class="gallery__item"><a href="https://carlosgarsua.com.es/media/posts/2/gallery/Carlos-Garcia-17.jpg" data-size="4500x3000"><img loading="lazy" src="https://carlosgarsua.com.es/media/posts/2/gallery/Carlos-Garcia-17-thumbnail.jpg" alt="" width="720" height="480"></a></figure>
 </div></div>
             ]]>
         </content>
@@ -340,8 +341,8 @@
         <author>
             <name>Carlos García Suárez</name>
         </author>
-        <link href="https://publiipersonal-osw2n.kinsta.page/primer-post.html"/>
-        <id>https://publiipersonal-osw2n.kinsta.page/primer-post.html</id>
+        <link href="https://carlosgarsua.com.es/primer-post.html"/>
+        <id>https://carlosgarsua.com.es/primer-post.html</id>
             <category term="Mezcla"/>
 
         <updated>2024-04-25T13:43:04+02:00</updated>
@@ -349,9 +350,9 @@
         <content type="html">
             <![CDATA[
                 <div class="gallery-wrapper"><div class="gallery"  data-is-empty="false" data-translation="Add images" data-columns="3">
-<figure class="gallery__item"><a href="https://publiipersonal-osw2n.kinsta.page/media/posts/1/gallery/1228123.jpg" data-size="2693x4061"><img loading="lazy" src="https://publiipersonal-osw2n.kinsta.page/media/posts/1/gallery/1228123-thumbnail.jpg" alt="" width="720" height="1086"></a></figure>
-<figure class="gallery__item"><a href="https://publiipersonal-osw2n.kinsta.page/media/posts/1/gallery/Carlos-Garcia-14.jpg" data-size="4500x3000"><img loading="lazy" src="https://publiipersonal-osw2n.kinsta.page/media/posts/1/gallery/Carlos-Garcia-14-thumbnail.jpg" alt="" width="720" height="480"></a></figure>
-<figure class="gallery__item"><a href="https://publiipersonal-osw2n.kinsta.page/media/posts/1/gallery/Carlos-Garcia-17.jpg" data-size="4500x3000"><img loading="lazy" src="https://publiipersonal-osw2n.kinsta.page/media/posts/1/gallery/Carlos-Garcia-17-thumbnail.jpg" alt="" width="720" height="480"></a></figure>
+<figure class="gallery__item"><a href="https://carlosgarsua.com.es/media/posts/1/gallery/1228123.jpg" data-size="2693x4061"><img loading="lazy" src="https://carlosgarsua.com.es/media/posts/1/gallery/1228123-thumbnail.jpg" alt="" width="720" height="1086"></a></figure>
+<figure class="gallery__item"><a href="https://carlosgarsua.com.es/media/posts/1/gallery/Carlos-Garcia-14.jpg" data-size="4500x3000"><img loading="lazy" src="https://carlosgarsua.com.es/media/posts/1/gallery/Carlos-Garcia-14-thumbnail.jpg" alt="" width="720" height="480"></a></figure>
+<figure class="gallery__item"><a href="https://carlosgarsua.com.es/media/posts/1/gallery/Carlos-Garcia-17.jpg" data-size="4500x3000"><img loading="lazy" src="https://carlosgarsua.com.es/media/posts/1/gallery/Carlos-Garcia-17-thumbnail.jpg" alt="" width="720" height="480"></a></figure>
 </div></div>
             ]]>
         </content>
