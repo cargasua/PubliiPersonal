@@ -3,7 +3,7 @@
     <title>Carlos García Suárez</title>
     <link href="https://carlosgarsua.com.es/feed.xml" rel="self" />
     <link href="https://carlosgarsua.com.es" />
-    <updated>2024-06-04T11:38:57+02:00</updated>
+    <updated>2024-06-04T12:23:00+02:00</updated>
     <author>
         <name>Carlos García Suárez</name>
     </author>
@@ -48,6 +48,7 @@
         </author>
         <link href="https://carlosgarsua.com.es/unaltra-vita.html"/>
         <id>https://carlosgarsua.com.es/unaltra-vita.html</id>
+            <category term="Landscape"/>
 
         <updated>2024-05-28T18:25:15+02:00</updated>
             <summary></summary>
@@ -55,7 +56,7 @@
             <![CDATA[
                 
   <div  class="gallery-wrapper gallery-wrapper--full">
-    <div class="gallery" data-columns="3">
+    <div class="gallery" data-columns="2">
       <figure class="gallery__item">
       <a href="https://carlosgarsua.com.es/media/posts/12/gallery/Picture_1.jpg" data-size="682x1024">
         <img loading="lazy" src="https://carlosgarsua.com.es/media/posts/12/gallery/Picture_1-thumbnail.jpg" height="721" width="480" alt="" >
