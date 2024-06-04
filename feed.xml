@@ -3,7 +3,7 @@
     <title>Carlos García Suárez</title>
     <link href="https://carlosgarsua.com.es/feed.xml" rel="self" />
     <link href="https://carlosgarsua.com.es" />
-    <updated>2024-05-31T18:40:10+02:00</updated>
+    <updated>2024-06-04T11:38:57+02:00</updated>
     <author>
         <name>Carlos García Suárez</name>
     </author>
@@ -54,7 +54,7 @@
         <content type="html">
             <![CDATA[
                 
-  <div  class="gallery-wrapper">
+  <div  class="gallery-wrapper gallery-wrapper--full">
     <div class="gallery" data-columns="3">
       <figure class="gallery__item">
       <a href="https://carlosgarsua.com.es/media/posts/12/gallery/Picture_1.jpg" data-size="682x1024">
@@ -505,8 +505,8 @@
 <div class="gallery-wrapper"><div class="gallery"  data-is-empty="false" data-translation="Add images" data-columns="3">
 <figure class="gallery__item"><a href="https://carlosgarsua.com.es/media/posts/2/gallery/48715.jpg" data-size="3024x2005"><img loading="lazy" src="https://carlosgarsua.com.es/media/posts/2/gallery/48715-thumbnail.jpg" alt="" width="720" height="477"></a></figure>
 <figure class="gallery__item"><a href="https://carlosgarsua.com.es/media/posts/2/gallery/1228123.jpg" data-size="2693x4061"><img loading="lazy" src="https://carlosgarsua.com.es/media/posts/2/gallery/1228123-thumbnail.jpg" alt="" width="720" height="1086"></a></figure>
-<figure class="gallery__item"><a href="https://carlosgarsua.com.es/media/posts/2/gallery/Carlos-Garcia-14.jpg" data-size="4500x3000"><img loading="lazy" src="https://carlosgarsua.com.es/media/posts/2/gallery/Carlos-Garcia-14-thumbnail.jpg" alt="" width="720" height="480"></a></figure>
 <figure class="gallery__item"><a href="https://carlosgarsua.com.es/media/posts/2/gallery/Carlos-Garcia-17.jpg" data-size="4500x3000"><img loading="lazy" src="https://carlosgarsua.com.es/media/posts/2/gallery/Carlos-Garcia-17-thumbnail.jpg" alt="" width="720" height="480"></a></figure>
+<figure class="gallery__item"><a href="https://carlosgarsua.com.es/media/posts/2/gallery/Carlos-Garcia-14.jpg" data-size="4500x3000"><img loading="lazy" src="https://carlosgarsua.com.es/media/posts/2/gallery/Carlos-Garcia-14-thumbnail.jpg" alt="" width="720" height="480"></a></figure>
 </div></div>
             ]]>
         </content>
