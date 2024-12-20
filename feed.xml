@@ -3,12 +3,65 @@
     <title>Carlos García Suárez</title>
     <link href="https://carlosgarsua.com.es/feed.xml" rel="self" />
     <link href="https://carlosgarsua.com.es" />
-    <updated>2024-06-25T14:30:54+02:00</updated>
+    <updated>2024-12-20T12:26:37+01:00</updated>
     <author>
         <name>Carlos García Suárez</name>
     </author>
     <id>https://carlosgarsua.com.es</id>
 
+    <entry>
+        <title>Test Galería</title>
+        <author>
+            <name>Carlos García Suárez</name>
+        </author>
+        <link href="https://carlosgarsua.com.es/test-galeria.html"/>
+        <id>https://carlosgarsua.com.es/test-galeria.html</id>
+        <media:content url="https://carlosgarsua.com.es/media/posts/14/48715.jpg" medium="image" />
+
+        <updated>2024-12-12T15:02:16+01:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://carlosgarsua.com.es/media/posts/14/48715.jpg" alt="Texto" />
+                    a b c d e
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://carlosgarsua.com.es/media/posts/14/48715.jpg" class="type:primaryImage" alt="Texto" /></p>
+                
+  <div  class="gallery-wrapper gallery-wrapper--full">
+    <div class="gallery" data-columns="3">
+      <figure class="gallery__item">
+      <a href="https://carlosgarsua.com.es/media/posts/14/gallery/2202_Paisajes_La_Albufera-2-2.jpg" data-size="5240x3912">
+        <img loading="lazy" src="https://carlosgarsua.com.es/media/posts/14/gallery/2202_Paisajes_La_Albufera-2-2-thumbnail.jpg" height="358" width="480" alt="1" >
+      </a>
+      <figcaption>a</figcaption>
+    </figure><figure class="gallery__item">
+      <a href="https://carlosgarsua.com.es/media/posts/14/gallery/48715-2.jpg" data-size="3024x2005">
+        <img loading="lazy" src="https://carlosgarsua.com.es/media/posts/14/gallery/48715-2-thumbnail.jpg" height="318" width="480" alt="2" >
+      </a>
+      <figcaption>b</figcaption>
+    </figure><figure class="gallery__item">
+      <a href="https://carlosgarsua.com.es/media/posts/14/gallery/Carlos-Garcia-14-2.jpg" data-size="4500x3000">
+        <img loading="lazy" src="https://carlosgarsua.com.es/media/posts/14/gallery/Carlos-Garcia-14-2-thumbnail.jpg" height="320" width="480" alt="3" >
+      </a>
+      <figcaption>c</figcaption>
+    </figure><figure class="gallery__item">
+      <a href="https://carlosgarsua.com.es/media/posts/14/gallery/Carlos-Garcia-17.jpg" data-size="4500x3000">
+        <img loading="lazy" src="https://carlosgarsua.com.es/media/posts/14/gallery/Carlos-Garcia-17-thumbnail.jpg" height="320" width="480" alt="4" >
+      </a>
+      <figcaption>d</figcaption>
+    </figure><figure class="gallery__item">
+      <a href="https://carlosgarsua.com.es/media/posts/14/gallery/Carlos-Garcia-18.JPG" data-size="4169x2796">
+        <img loading="lazy" src="https://carlosgarsua.com.es/media/posts/14/gallery/Carlos-Garcia-18-thumbnail.JPG" height="322" width="480" alt="5" >
+      </a>
+      <figcaption>e</figcaption>
+    </figure>
+    </div>
+  </div>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Why I don&#x27;t use Instagram</title>
         <author>
